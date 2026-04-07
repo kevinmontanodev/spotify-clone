@@ -18,7 +18,7 @@ export interface Album {
       createdBy:"Spotify",
       color: colors.yellow,
       cover:
-        "https://vinyl.lofirecords.com/cdn/shop/products/VINYL_MORNING_COFFEE_4-min.png?v=1680526353",
+        "https://i.discogs.com/2GC_EhaAhzDAIjDuOZgRdYxyzcOuZOaabScHRXVNj88/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1NDQ3/NzU5LTE3NTc1MTEz/MjQtMjEzMi5qcGVn.jpeg",
       artists: ["NoSpirit", "Casiio", "Purple Cat"],
       type: "Album",
       songs: [1, 2, 3, 4, 5]
@@ -29,7 +29,7 @@ export interface Album {
       createdBy:"Spotify",
       color: colors.green,
       cover:
-        "https://vinyl.lofirecords.com/cdn/shop/files/2amsynth-vinyl.png?v=1693312187",
+        "https://f4.bcbits.com/img/a4099127608_16.jpg",
       artists: ["Kupla", "Blue Fox"],
       type: "Album",
       songs: [6,7,8,9,10]
